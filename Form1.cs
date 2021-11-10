@@ -56,7 +56,6 @@ namespace OOP8
                 trpo = Int32.Parse(c);
                 rysski = Int32.Parse(e);
                 oop = Int32.Parse(a);
-
                 fio = f;
             }
 

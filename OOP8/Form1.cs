@@ -60,7 +60,7 @@ namespace OOP8
                 rysski = Int32.Parse(e);
                 oop = Int32.Parse(a);
                 int НОВЫЕ_Данные = 0;
-                int НОВЫЕ_Данные2 = 0;
+                int НОВЫЕ_Данные_2 = 0;
                 fio = f;
             }
 

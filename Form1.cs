@@ -41,9 +41,6 @@ namespace OOP8
             private int rysski;
             private int oop;
 
-
-
-
             public string FIO
             {
                 get { return fio; }

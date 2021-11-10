@@ -1,0 +1,31 @@
+C:\Users\kitpo\source\repos\OOP8\OOP8\bin\Debug\OOP8.exe.config
+C:\Users\kitpo\source\repos\OOP8\OOP8\bin\Debug\OOP8.exe
+C:\Users\kitpo\source\repos\OOP8\OOP8\bin\Debug\OOP8.pdb
+C:\Users\kitpo\source\repos\OOP8\OOP8\obj\Debug\OOP8.csprojAssemblyReference.cache
+C:\Users\kitpo\source\repos\OOP8\OOP8\obj\Debug\OOP8.Form1.resources
+C:\Users\kitpo\source\repos\OOP8\OOP8\obj\Debug\OOP8.Properties.Resources.resources
+C:\Users\kitpo\source\repos\OOP8\OOP8\obj\Debug\OOP8.csproj.GenerateResource.cache
+C:\Users\kitpo\source\repos\OOP8\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+C:\Users\kitpo\source\repos\OOP8\OOP8\obj\Debug\OOP8.exe
+C:\Users\kitpo\source\repos\OOP8\OOP8\obj\Debug\OOP8.pdb
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\bin\Debug\OOP8.exe.config
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\bin\Debug\OOP8.exe
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\bin\Debug\OOP8.pdb
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\obj\Debug\OOP8.csprojAssemblyReference.cache
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\obj\Debug\OOP8.Form1.resources
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\obj\Debug\OOP8.Properties.Resources.resources
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\obj\Debug\OOP8.csproj.GenerateResource.cache
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\obj\Debug\OOP8.exe
+C:\Users\akula\OneDrive\Desktop\Лр\OOP\OOP8\OOP8\obj\Debug\OOP8.pdb
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\obj\Debug\OOP8.csprojAssemblyReference.cache
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\obj\Debug\OOP8.Form1.resources
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\obj\Debug\OOP8.Properties.Resources.resources
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\obj\Debug\OOP8.csproj.GenerateResource.cache
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\obj\Debug\OOP8.exe
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\obj\Debug\OOP8.pdb
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\bin\Debug\OOP8.exe.config
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\bin\Debug\OOP8.exe
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\bin\Debug\OOP8.pdb
+C:\Users\akula\Downloads\9 ЛР-20211003T192340Z-001\9 ЛР\ООП9\OOP8\obj\Debug\OOP8.Form2.resources
